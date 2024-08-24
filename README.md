@@ -1,8 +1,19 @@
-# React + Vite
+## React Js vite - proyecto con Hook y componentes de funcion
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Introduccion
 
-Currently, two official plugins are available:
+ - El proyecto "Suscripción de streaming" es una aplicación desarrollada en React JS, destinada a gestionar y monitorizar suscripciones a plataformas de streaming. En un panorama de medios saturado con diversos servicios de entretenimiento, esta herramienta se presenta como una solución eficaz para que los usuarios mantengan un control riguroso sobre sus suscripciones y gastos.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Características Principales
+
+- Interfaz de Usuario (UI) Moderna: La aplicación cuenta con una interfaz moderna y minimalista que facilita la navegación y el acceso a la información. Utilizando los principios de diseño de React, se ha creado un entorno intuitivo que permite a los usuarios gestionar sus suscripciones con facilidad.
+
+- Gestión Integral de Suscripciones: Los usuarios pueden añadir, editar y eliminar suscripciones a diferentes servicios de streaming. La aplicación ofrece campos para ingresar información relevante selecionar el servicio, el costo mensual, lo que ayuda a tener un registro actualizado y preciso de cada suscripción.
+
+- Visualización de Datos: La aplicación ofrece herramientas para visualizar los gastos en suscripciones mediante una tablas. Estas representaciones permiten a los usuarios analizar su gasto en entretenimiento a lo largo del tiempo, identificar patrones y tomar decisiones informadas sobre la gestión de sus suscripciones.
+
+- Actualizaciones en Tiempo Real: Gracias a la arquitectura de React JS, la aplicación asegura que los cambios se reflejen instantáneamente en la interfaz sin necesidad de recargar la página. Esto proporciona una experiencia de usuario más fluida y eficiente.
+
+### Tecnologías Utilizadas
+
+- El proyecto está desarrollado con React JS, un popular framework de JavaScript que facilita la creación de interfaces de usuario interactivas. React permite la creación de componentes reutilizables y la gestión eficiente del estado de la aplicación. Además, se han utilizado otras tecnologías complementarias como React Router para la navegación y Axios para realizar solicitudes HTTP, mejorando así la funcionalidad y la experiencia del usuario.
